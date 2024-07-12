@@ -6,17 +6,17 @@ Clone this repository with the command:
 
 ```bash
 # using https
-git clone https://github.com/EUREKA-ITB/eureka-itb24.git
+git clone https://github.com/IS-HIMAFI-ITB/contoh-frontend.git
 # or using SSH
-git clone git@github.com:EUREKA-ITB/eureka-itb24.git
+git clone git@github.com:IS-HIMAFI-ITB/contoh-frontend.git
 # or using GitHub CLI
-git clone gh repo clone EUREKA-ITB/eureka-itb24
+git clone gh repo clone IS-HIMAFI-ITB/contoh-frontend
 ```
 
 Change current working directory to the cloned repository's folder:
 
 ```bash
-cd eureka-itb24
+cd contoh-frontend
 ```
 
 and then run
